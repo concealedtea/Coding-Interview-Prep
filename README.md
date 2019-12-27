@@ -28,3 +28,4 @@ Solutions
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Easy/0027_Remove_Element.py)|Easy||
 |0028|[Implement StrStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./Easy/0028_Implement_StrStr.py)|Easy|[KMP Explanation](https://www.youtube.com/watch?v=BXCEFAzhxGY&feature=emb_logo)|
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./Easy/0035_Search_Insert_Position.py)|Easy||
+|0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./Medium/0328_Odd_Even_Linked_List)|Medium||
