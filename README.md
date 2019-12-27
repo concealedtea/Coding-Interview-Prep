@@ -10,3 +10,10 @@ This is but one of my many practice resources that I've used for my interview pr
 - https://www.youtube.com/watch?v=iAHQopLuZ4Q
 - https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac
 - Cracking the Coding Interview, 4th Edition
+
+Solutions
+========
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Easy/0001_Two_Sum.py)|Easy|
