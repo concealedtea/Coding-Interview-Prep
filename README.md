@@ -17,6 +17,7 @@ Solutions
 | # | Title | Solution | Difficulty | Explanation |
 |---| ----- | -------- | ---------- | ----------- | 
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Easy/0001_Two_Sum.py)|Easy||
+|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./Medium/0002_Add_Two_Numbers.py)|Medium||
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./Easy/0007_Reverse_Integer.py)|Easy||
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./Easy/0009_Palindrome_Number.py)|Easy||
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./Easy/0013_Roman_To_Integer.py)|Easy||
@@ -26,3 +27,4 @@ Solutions
 |0026|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Easy/0026_Remove_Duplicates_From_Sorted_Array.py)|Easy||
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Easy/0027_Remove_Element.py)|Easy||
 |0028|[Implement StrStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./Easy/0028_Implement_StrStr.py)|Easy|[KMP Explanation](https://www.youtube.com/watch?v=BXCEFAzhxGY&feature=emb_logo)|
+|0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./Easy/0035_Search_Insert_Position.py)|Easy||
