@@ -25,4 +25,4 @@ Solutions
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./Easy/0021_Merge_Two_Sorted_Lists.py)|Easy||
 |0026|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Easy/0026_Remove_Duplicates_From_Sorted_Array.py)|Easy||
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Easy/0027_Remove_Element.py)|Easy||
-|0028|[Implement StrStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./Easy/0028_Implement_StrStr.py)|Easy||
+|0028|[Implement StrStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./Easy/0028_Implement_StrStr.py)|Easy|[KMP Explanation](https://www.youtube.com/watch?v=BXCEFAzhxGY&feature=emb_logo)|
