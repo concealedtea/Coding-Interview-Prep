@@ -18,6 +18,7 @@ Solutions
 |---| ----- | -------- | ---------- | ----------- | 
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Easy/0001_Two_Sum.py)|Easy||
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./Medium/0002_Add_Two_Numbers.py)|Medium||
+|0003|[Longest_Substring_Without_Repeating_Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./Medium/0003_Longest_Substring_Without_Repeating_Characters.py)|Medium|[Sliding Window](https://www.youtube.com/watch?v=mtHelVTLKRQ)|
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./Easy/0007_Reverse_Integer.py)|Easy||
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./Easy/0009_Palindrome_Number.py)|Easy||
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./Easy/0013_Roman_To_Integer.py)|Easy||
