@@ -30,7 +30,7 @@ class Solution:
 
                 if (m + n) % 2 == 1:
                     return max_of_left
-
+    
                 if i == m: min_of_right = nums2[j]
                 elif j == n: min_of_right = nums1[i]
                 else: min_of_right = min(nums1[i], nums2[j])
