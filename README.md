@@ -1,6 +1,7 @@
 ﻿# Leetcode Solutions
 This repository contains my solutions (mostly written in Python) to the sets of problems from https://leetcode.com. I approach each question as if it were a interview question and attempt to simulate an actual interview by asking clarifying questions. 
 Some of the Medium/Hard problems or complicated algorithms have detailed explanations in order to clarify the methods used. 
+If you have a more efficient method, please let me know! I'm always eager to learn. Email me at: juliusfan98@gmail.com
 
 ## Other Useful Resources 
 This is but one of my many practice resources that I've used for my interview preparation. Others include
