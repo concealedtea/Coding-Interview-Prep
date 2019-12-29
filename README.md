@@ -1,15 +1,15 @@
 ﻿# Leetcode Solutions
 This repository contains my solutions (mostly written in Python) to the sets of problems from https://leetcode.com. I approach each question as if it were a interview question and attempt to simulate an actual interview by asking clarifying questions. 
-Some of the Medium/Hard problems or complicated algorithms have detailed explanations in order to clarify the methods used. 
+Some of the Medium/Hard problems or complicated algorithms have detailed explanations in order to clarify the methods used.   
 If you have a more efficient method, please let me know! I'm always eager to learn. Email me at: juliusfan98@gmail.com
 
 ## Other Useful Resources 
 This is but one of my many practice resources that I've used for my interview preparation. Others include
-- https://classroom.udacity.com/courses/ud513/
-- http://www.pgbovine.net/programming-interview-tips.htm
-- https://github.com/jwasham/coding-interview-university
-- https://www.youtube.com/watch?v=iAHQopLuZ4Q
-- https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac
+- [Udacity](https://classroom.udacity.com/courses/ud513/)
+- [Philip Guo's Interview Tips](http://www.pgbovine.net/programming-interview-tips.htm)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Free Code Camp's Master the Coding Interview Video](https://www.youtube.com/watch?v=iAHQopLuZ4Q)
+- [Medium's List of Important Algorithms] (https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)
 - Cracking the Coding Interview, 4th Edition
 
 Solutions
