@@ -26,6 +26,7 @@ Solutions
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./Easy/0007_Reverse_Integer.py)|Easy||
 |0008|[String to Number (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./Medium/0008_String_To_Number.py)|Easy||
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./Easy/0009_Palindrome_Number.py)|Easy||
+|0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](./Medium/0012_Integer_To_Roman.py)|Easy||
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./Easy/0013_Roman_To_Integer.py)|Easy||
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./Easy/0014_Longest_Common_Prefix.py)|Easy||
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./Medium/0017_Letter_Combinations_Of_A_Phone_Number.py)|Medium||
