@@ -5,6 +5,8 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+        # Explanation: Using a modified binary search, we are able to traverse until we find the first instance of the given target element, we then reproduce the 
+        # binary search on the next largest integer
         def binarySearch(self, nums, target):
             firstPos = len(nums)
             low, high = 0, len(nums) - 1
