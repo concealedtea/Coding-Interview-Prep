@@ -9,7 +9,7 @@ This is but one of my many practice resources that I've used for my interview pr
 - [Philip Guo's Interview Tips](http://www.pgbovine.net/programming-interview-tips.htm)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Free Code Camp's Master the Coding Interview Video](https://www.youtube.com/watch?v=iAHQopLuZ4Q)
-- [Medium's List of Important Algorithms] (https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)
+- [Medium's List of Important Algorithms](https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)
 - Cracking the Coding Interview, 4th Edition
 
 Solutions
