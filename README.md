@@ -30,6 +30,7 @@ Solutions
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](./Medium/0012_Integer_To_Roman.py)|Easy||
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./Easy/0013_Roman_To_Integer.py)|Easy||
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./Easy/0014_Longest_Common_Prefix.py)|Easy||
+|0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](./Medium/0016_3Sum_Closest.py)|Medium||
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./Medium/0017_Letter_Combinations_Of_A_Phone_Number.py)|Medium||
 |0019|[Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./Medium/0019_Remove_Nth_Node_From_End_Of_List.py)|Medium||
 |0020|[Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Python](./Easy/0020_Valid_Parenthesis.py)|Easy||
