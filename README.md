@@ -42,6 +42,9 @@ Solutions
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./Medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)|Medium||
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./Easy/0035_Search_Insert_Position.py)|Easy||
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Easy/0053_Maximum_Subarray.py)|Easy||
+|0136|[Single Number](https://leetcode.com/problems/single-number/) | [Python](./Easy/0136_Single_Number.py)|Easy||
+|0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python](./Easy/0202_Happy_Number.py)|Easy||
+|0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Easy/0283_Move_Zeroes.py)|Easy||
 |0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./Medium/0328_Odd_Even_Linked_List.py)|Medium||
 |0380|[Insert Delete GetRandom](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Medium/0380_Insert_Delete_GetRandom.py)|Medium||
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](./Easy/0938_Range_Sum_Of_BST.py)|Easy||
