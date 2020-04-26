@@ -45,10 +45,12 @@ Solutions
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Easy/0053_Maximum_Subarray.py)|Easy||
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./Easy/0122_Best_Time_Stock_II.py)|Easy||
 |0136|[Single Number](https://leetcode.com/problems/single-number/) | [Python](./Easy/0136_Single_Number.py)|Easy||
+|0155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./Easy/0155_Min_Stack.py)|Easy||
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python](./Easy/0202_Happy_Number.py)|Easy||
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Easy/0283_Move_Zeroes.py)|Easy||
 |0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./Medium/0328_Odd_Even_Linked_List.py)|Medium||
 |0380|[Insert Delete GetRandom](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Medium/0380_Insert_Delete_GetRandom.py)|Medium||
+|0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./Easy/0543_Diameter_Of_Binary_Tree.py)|Easy||
 |0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](./Easy/0844_Backspace_String_Compare.py)|Easy||
 |0876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./Easy/0876_Middle_Of_Linked_List.py)|Easy||
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](./Easy/0938_Range_Sum_Of_BST.py)|Easy||
