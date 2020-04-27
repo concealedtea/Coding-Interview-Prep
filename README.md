@@ -54,3 +54,4 @@ Solutions
 |0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](./Easy/0844_Backspace_String_Compare.py)|Easy||
 |0876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./Easy/0876_Middle_Of_Linked_List.py)|Easy||
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](./Easy/0938_Range_Sum_Of_BST.py)|Easy||
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](./Easy/1046_Last_Stone_Weight.py)|Easy||
