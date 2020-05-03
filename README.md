@@ -36,6 +36,7 @@ Solutions
 |0019|[Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./Medium/0019_Remove_Nth_Node_From_End_Of_List.py)|Medium||
 |0020|[Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) | [Python](./Easy/0020_Valid_Parenthesis.py)|Easy||
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./Easy/0021_Merge_Two_Sorted_Lists.py)|Easy||
+|0023|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./Hard/0023_Merge_K_Sorted_Lists.py)|Hard||
 |0022|[Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) | [Python](./Medium/0022_Generate_Parenthesis.py)|Medium||
 |0026|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Easy/0026_Remove_Duplicates_From_Sorted_Array.py)|Easy||
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Easy/0027_Remove_Element.py)|Easy||
