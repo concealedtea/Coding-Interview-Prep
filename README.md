@@ -41,8 +41,10 @@ Solutions
 |0026|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Easy/0026_Remove_Duplicates_From_Sorted_Array.py)|Easy||
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Easy/0027_Remove_Element.py)|Easy||
 |0028|[Implement StrStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./Easy/0028_Implement_StrStr.py)|Easy|[KMP Explanation](https://www.youtube.com/watch?v=BXCEFAzhxGY&feature=emb_logo)|
+|0033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./Medium/0033_Search_In_Rotated_Sorted_Array.py)|Medium||
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./Medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)|Medium||
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./Easy/0035_Search_Insert_Position.py)|Easy||
+|0048|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./Medium/0048_Rotate_Image.py)|Medium||
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./Medium/0049_Group_Anagrams.py)|Medium||
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Easy/0053_Maximum_Subarray.py)|Easy||
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./Easy/0122_Best_Time_Stock_II.py)|Easy||
