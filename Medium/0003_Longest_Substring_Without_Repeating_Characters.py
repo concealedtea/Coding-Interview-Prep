@@ -17,3 +17,21 @@ class Solution:
         # return maxLen
         return maxLen
         
+    # Alternative method to implement using index
+    def lengthOfLongestSubstring2(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        dictionary = {}
+        maxLen = start = 0
+        for idx, value in enumerate(s):
+            if value in dictionary:
+                sums = dictionary[value] + 1
+                if sums > start:
+                    start = sums
+            num = idx - start + 1
+            if num > maxLen:
+                maxLen = num
+            dictionary[value] = idx
+        return maxLen
