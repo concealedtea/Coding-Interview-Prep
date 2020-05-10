@@ -2,7 +2,11 @@
 This repository contains my solutions (mostly written in Python) to the sets of problems from https://leetcode.com. I try to approach each question as if it were a interview question and attempt to simulate an actual interview by asking clarifying questions when possible. 
 Some of the Medium/Hard problems or complicated algorithms have detailed explanations in order to clarify the methods used.   
 If you have a more efficient method, please let me know! I'm always eager to learn how to optimize these algorithms!   
-Email me at: juliusfan98@gmail.com
+Email me at: juliusfan98@gmail.com  
+
+# Cracking the Coding Interview Answers  
+This folder contains answers to the problems in Cracking the Coding Interview by Gayle Laakman Mcdowell. These answers are written
+in Python alone.   
 
 ## Other Useful Resources 
 This is but one of my many practice resources that I've used for my interview preparation. Others include
@@ -48,10 +52,12 @@ Solutions
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./Medium/0049_Group_Anagrams.py)|Medium||
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Easy/0053_Maximum_Subarray.py)|Easy||
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./Medium/0055_Jump_Game.py)|Easy||
+|0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Easy/0121_Best_Time_Stock.py)|Easy||
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./Easy/0122_Best_Time_Stock_II.py)|Easy||
 |0136|[Single Number](https://leetcode.com/problems/single-number/) | [Python](./Easy/0136_Single_Number.py)|Easy||
 |0155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./Easy/0155_Min_Stack.py)|Easy||
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python](./Easy/0202_Happy_Number.py)|Easy||
+|0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./Easy/0217_Contains_Duplicate.py)|Easy||
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Easy/0283_Move_Zeroes.py)|Easy||
 |0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./Medium/0328_Odd_Even_Linked_List.py)|Medium||
 |0380|[Insert Delete GetRandom](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Medium/0380_Insert_Delete_GetRandom.py)|Medium||

@@ -2,24 +2,33 @@ import unittest
 def one_away(s1,s2):
     if len(s1) == len(s2):
         if s1 == s2: return True
-        if isReplace(s1,s2): return True
-    if len(s1) > len(s2):
-        if isRemove(s1,s2): return True
-    if len(s1) > len (s2): 
-        if isRemove(s2, s1): return True
+        return isReplace(s1,s2)
+    elif len(s1) + 1 == len(s2):
+        return isRemove(s1,s2)
+    elif len(s1) - 1 == len(s2):
+        return isRemove(s2,s1)
     return False
 
 def isReplace(s1, s2):
-    totalDifs = 0
-    for idx, char in enumerate(s1):
-        if char != s2[idx]: totalDifs += 1
-    return totalDifs <= 1
+    totalDifs = False
+    for ch1,ch2 in zip(s1,s2):
+        if ch1 != ch2:
+            if totalDifs: return False
+            totalDifs += 1
+    return True
 
 def isRemove(s1, s2):
-    totalDifs = 0
-    # Make sure s1 is longer, if not, swap their positions
-    if len(s1) < len(s2): s1,s2 = s2,s1
-
+    totalDifs = False
+    idx1, idx2 = 0,0
+    while idx1 < len(s1) and idx2 < len(s2):
+        if s1[idx1] != s2[idx2]:
+            if totalDifs: return False
+            totalDifs = True
+            idx2 += 1
+        else:
+            idx1 += 1
+            idx2 += 1
+    return True
 
 class Test(unittest.TestCase):
     '''Test Cases'''
