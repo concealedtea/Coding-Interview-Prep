@@ -6,7 +6,7 @@ Email me at: juliusfan98@gmail.com
 
 # Cracking the Coding Interview Answers  
 This folder contains answers to the problems in Cracking the Coding Interview by Gayle Laakman Mcdowell. These answers are written
-in Python alone.   
+in Python alone. Test cases have been adapted from various online sources.   
 
 ## Other Useful Resources 
 This is but one of my many practice resources that I've used for my interview preparation. Others include
