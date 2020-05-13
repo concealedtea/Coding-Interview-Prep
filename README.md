@@ -51,7 +51,8 @@ Solutions
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./Medium/0048_Rotate_Image.py)|Medium||
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./Medium/0049_Group_Anagrams.py)|Medium||
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Easy/0053_Maximum_Subarray.py)|Easy||
-|0055|[Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./Medium/0055_Jump_Game.py)|Easy||
+|0055|[Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./Medium/0055_Jump_Game.py)|Medium||
+|0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./Easy/0070_Climbing_Stairs.py)|Easy||
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Easy/0121_Best_Time_Stock.py)|Easy||
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./Easy/0122_Best_Time_Stock_II.py)|Easy||
 |0136|[Single Number](https://leetcode.com/problems/single-number/) | [Python](./Easy/0136_Single_Number.py)|Easy||
