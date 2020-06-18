@@ -53,13 +53,17 @@ Solutions
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Easy/0053_Maximum_Subarray.py)|Easy||
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./Medium/0055_Jump_Game.py)|Medium||
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./Easy/0070_Climbing_Stairs.py)|Easy||
+|0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./Hard/0076_Minimum_Window_Substring.py)|Hard|Counter + Sliding Window|
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Easy/0121_Best_Time_Stock.py)|Easy||
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./Easy/0122_Best_Time_Stock_II.py)|Easy||
 |0136|[Single Number](https://leetcode.com/problems/single-number/) | [Python](./Easy/0136_Single_Number.py)|Easy||
+|0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./Easy/0141_Has_Cycle.py)|Easy|Set or Tortoise and Hare|
 |0152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./Medium/0152_Maximum_Product_Subarray.py)|Medium||
 |0153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Medium/0153_Find_Minimum_Rotated_Sorted_Array.py)|Medium||
 |0155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./Easy/0155_Min_Stack.py)|Easy||
+|0200|[Num Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./Medium/0200_Num_Islands.py)|Medium||
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python](./Easy/0202_Happy_Number.py)|Easy||
+|0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Easy/0206_Reverse_LL.py)|Easy||
 |0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./Easy/0217_Contains_Duplicate.py)|Easy||
 |0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./Medium/0238_Product_of_Array_Except_Self.py)|Medium||
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Easy/0242_Valid_Anagram.py)|Easy||
