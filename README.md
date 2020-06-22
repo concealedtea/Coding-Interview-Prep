@@ -4,6 +4,9 @@ Some of the Medium/Hard problems or complicated algorithms have detailed explana
 If you have a more efficient method, please let me know! I'm always eager to learn how to optimize these algorithms!   
 Email me at: juliusfan98@gmail.com  
 
+# CSES 
+This folder contains solutions in Python to the questions from the [CSES problem set](https://cses.fi/problemset/list/). 
+
 # Cracking the Coding Interview Answers  
 This folder contains answers to the problems in Cracking the Coding Interview by Gayle Laakman Mcdowell. These answers are written
 in Python alone. Test cases have been adapted from various online sources.   
@@ -68,8 +71,13 @@ Solutions
 |0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./Medium/0238_Product_of_Array_Except_Self.py)|Medium||
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Easy/0242_Valid_Anagram.py)|Easy||
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Easy/0283_Move_Zeroes.py)|Easy||
+|0297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Python](./Hard/0297_Serialize_Deserialize_BTree.py)|Hard||
+|0322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./Medium/0322_Coin_Change.py)|Medium||
 |0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./Medium/0328_Odd_Even_Linked_List.py)|Medium||
 |0380|[Insert Delete GetRandom](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Medium/0380_Insert_Delete_GetRandom.py)|Medium||
+|0417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python](./Medium/0417_Pacific_Atlantic_Water_Flow.py)|Medium|[DFS](https://www.youtube.com/watch?v=LVlihRYfVVw)|
+|0435|[Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./Medium/0435_Non_Overlapping_Intervals.py)|Medium|Greedy Algorithm|
+|0452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python](./Medium/0452_Min_Arrows.py)|Medium|Greedy Algorithm|
 |0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./Easy/0543_Diameter_Of_Binary_Tree.py)|Easy||
 |0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](./Easy/0844_Backspace_String_Compare.py)|Easy||
 |0876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./Easy/0876_Middle_Of_Linked_List.py)|Easy||
