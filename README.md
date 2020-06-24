@@ -67,6 +67,7 @@ Solutions
 |0200|[Num Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./Medium/0200_Num_Islands.py)|Medium||
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python](./Easy/0202_Happy_Number.py)|Easy||
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Easy/0206_Reverse_LL.py)|Easy||
+|0207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./Medium/0207_Course_Schedule.py)|Medium||
 |0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./Easy/0217_Contains_Duplicate.py)|Easy||
 |0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./Medium/0238_Product_of_Array_Except_Self.py)|Medium||
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Easy/0242_Valid_Anagram.py)|Easy||
@@ -74,6 +75,7 @@ Solutions
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Python](./Hard/0297_Serialize_Deserialize_BTree.py)|Hard||
 |0322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./Medium/0322_Coin_Change.py)|Medium||
 |0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./Medium/0328_Odd_Even_Linked_List.py)|Medium||
+|0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Medium/0347_Top_K_Freq_Elements.py)|Medium||
 |0380|[Insert Delete GetRandom](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Medium/0380_Insert_Delete_GetRandom.py)|Medium||
 |0417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python](./Medium/0417_Pacific_Atlantic_Water_Flow.py)|Medium|[DFS](https://www.youtube.com/watch?v=LVlihRYfVVw)|
 |0435|[Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./Medium/0435_Non_Overlapping_Intervals.py)|Medium|Greedy Algorithm|
