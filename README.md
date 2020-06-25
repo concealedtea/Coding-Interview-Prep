@@ -59,6 +59,7 @@ Solutions
 |0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./Hard/0076_Minimum_Window_Substring.py)|Hard|Counter + Sliding Window|
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Easy/0121_Best_Time_Stock.py)|Easy||
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./Easy/0122_Best_Time_Stock_II.py)|Easy||
+|0124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python](./Hard/0124_Binary_Tree_Max_Sum.py)|Hard||
 |0136|[Single Number](https://leetcode.com/problems/single-number/) | [Python](./Easy/0136_Single_Number.py)|Easy||
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./Easy/0141_Has_Cycle.py)|Easy|Set or Tortoise and Hare|
 |0152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./Medium/0152_Maximum_Product_Subarray.py)|Medium||
@@ -68,7 +69,10 @@ Solutions
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python](./Easy/0202_Happy_Number.py)|Easy||
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Easy/0206_Reverse_LL.py)|Easy||
 |0207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./Medium/0207_Course_Schedule.py)|Medium||
+|0208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python](./Medium/0208_Implement_Prefix_Trie.py)|Medium||
 |0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./Easy/0217_Contains_Duplicate.py)|Easy||
+|0230|[Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python](./Medium/0230_Kth_Smallest_BST.py)|Medium||
+|0235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](./Easy/0235_Lowest_Common_Ancestor.py)|Easy||
 |0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./Medium/0238_Product_of_Array_Except_Self.py)|Medium||
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Easy/0242_Valid_Anagram.py)|Easy||
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Easy/0283_Move_Zeroes.py)|Easy||
