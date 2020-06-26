@@ -76,6 +76,7 @@ Solutions
 |0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./Medium/0238_Product_of_Array_Except_Self.py)|Medium||
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Easy/0242_Valid_Anagram.py)|Easy||
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Easy/0283_Move_Zeroes.py)|Easy||
+|0295|[Find Median in Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Python](./Hard/0295_Find_Median_Data_Stream.py)|Hard||
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Python](./Hard/0297_Serialize_Deserialize_BTree.py)|Hard||
 |0322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./Medium/0322_Coin_Change.py)|Medium||
 |0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./Medium/0328_Odd_Even_Linked_List.py)|Medium||
