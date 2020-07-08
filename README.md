@@ -65,6 +65,7 @@ Solutions
 |0152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./Medium/0152_Maximum_Product_Subarray.py)|Medium||
 |0153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Medium/0153_Find_Minimum_Rotated_Sorted_Array.py)|Medium||
 |0155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./Easy/0155_Min_Stack.py)|Easy||
+|0198|[House Robbers](https://leetcode.com/problems/house-robber/) | [Python](./Easy/0198_House_Robbers.py)|Easy|Dynamic Programming|
 |0200|[Num Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./Medium/0200_Num_Islands.py)|Medium||
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python](./Easy/0202_Happy_Number.py)|Easy||
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Easy/0206_Reverse_LL.py)|Easy||
@@ -83,10 +84,12 @@ Solutions
 |0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Medium/0347_Top_K_Freq_Elements.py)|Medium||
 |0380|[Insert Delete GetRandom](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Medium/0380_Insert_Delete_GetRandom.py)|Medium||
 |0417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python](./Medium/0417_Pacific_Atlantic_Water_Flow.py)|Medium|[DFS](https://www.youtube.com/watch?v=LVlihRYfVVw)|
+|0424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Python](./Medium/0424_Longest_Repeating_Character_Replacement.py)|Medium|Sliding Window|
 |0435|[Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./Medium/0435_Non_Overlapping_Intervals.py)|Medium|Greedy Algorithm|
 |0452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python](./Medium/0452_Min_Arrows.py)|Medium|Greedy Algorithm|
 |0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./Easy/0543_Diameter_Of_Binary_Tree.py)|Easy||
 |0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](./Easy/0844_Backspace_String_Compare.py)|Easy||
 |0876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./Easy/0876_Middle_Of_Linked_List.py)|Easy||
+|0904|[Fruits Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Python](./Medium/0904_Fruits_Into_Baskets.py)|Medium||
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](./Easy/0938_Range_Sum_Of_BST.py)|Easy||
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](./Easy/1046_Last_Stone_Weight.py)|Easy||
