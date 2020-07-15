@@ -92,4 +92,5 @@ Solutions
 |0876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./Easy/0876_Middle_Of_Linked_List.py)|Easy||
 |0904|[Fruits Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Python](./Medium/0904_Fruits_Into_Baskets.py)|Medium||
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](./Easy/0938_Range_Sum_Of_BST.py)|Easy||
+|0986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Python](./Medium/0986_Interval_List_Intersections.py)|Medium||
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](./Easy/1046_Last_Stone_Weight.py)|Easy||
