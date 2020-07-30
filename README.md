@@ -59,7 +59,11 @@ Solutions
 |0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./Hard/0076_Minimum_Window_Substring.py)|Hard|Counter + Sliding Window|
 |0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./Medium/0092_Reverse_Linked_List_II.py)|Medium||
 |0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](./Medium/0102_Binary_Tree_Level_Order_Traversal.py)|Medium||
+|0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python](./Medium/0103_Binary_Tree_Zigzag_Level_Order_Traversal.py)|Medium||
 |0107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](./Easy/0107_Binary_Tree_Level_Order_Traversal_II.py)|Easy||
+|0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Python](./Easy/0111_Minimum_Depth_Binary_Tree.py)|Easy||
+|0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Python](./Medium/0113_Path_Sum_II.py)|Medium||
+|0116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Python](./Medium/0116_Populating_Next_Right_Pointer.py)|Medium||
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Easy/0121_Best_Time_Stock.py)|Easy||
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./Easy/0122_Best_Time_Stock_II.py)|Easy||
 |0124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python](./Hard/0124_Binary_Tree_Max_Sum.py)|Hard||
@@ -93,6 +97,7 @@ Solutions
 |0435|[Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./Medium/0435_Non_Overlapping_Intervals.py)|Medium|Greedy Algorithm|
 |0452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python](./Medium/0452_Min_Arrows.py)|Medium|Greedy Algorithm|
 |0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./Easy/0543_Diameter_Of_Binary_Tree.py)|Easy||
+|0637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Python](./Easy/0637_Average_Levels_Binary_Tree.py)|Easy||
 |0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](./Easy/0844_Backspace_String_Compare.py)|Easy||
 |0876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./Easy/0876_Middle_Of_Linked_List.py)|Easy||
 |0904|[Fruits Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Python](./Medium/0904_Fruits_Into_Baskets.py)|Medium||
